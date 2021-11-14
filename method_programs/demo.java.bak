@@ -1,0 +1,14 @@
+/    vintln("fly like a bird");
+	}             e+6
+    public static void move() 
+	{
+		System.out.println("move like a tiger");
+	}
+	public static void main(String[] args) 
+	{
+		System.out.println("execution starts....");
+		move();
+		fly();
+		System.out.println("execution ended....");
+	}
+}

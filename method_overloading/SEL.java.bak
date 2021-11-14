@@ -1,0 +1,9 @@
+class  SEL
+{
+	public static void main(String[] args) 
+	{
+		int a=1.0,b=2,c;
+		c=a+b;
+		System.out.println(c);
+	}
+}

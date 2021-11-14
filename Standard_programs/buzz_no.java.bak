@@ -1,0 +1,17 @@
+class buzz_no 
+{
+	public static void main(String[] args) 
+	{
+		int a=67;
+		int rem=a%10;
+		if (a%7==0 || rem==7)
+		{
+			System.out.println("buzz");
+		}
+		else
+		{
+		 System.out.println("no buzz");
+		}
+		
+	}
+}

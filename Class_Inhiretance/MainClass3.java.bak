@@ -1,0 +1,31 @@
+class M 
+{
+	public double i;
+}
+class N extends M
+{
+	public int j;
+}
+class O extends N
+{
+	public int k;
+	public void display()
+	{
+			System.out.println("i value is :"+i);
+			System.out.println("j value is :"+j);
+			System.out.println("k value is :"+k);
+
+
+
+	}
+}
+class MainClass3
+{
+	public static void main(String[] args) 
+	{
+		O b1=new O();
+		b1.5.5;
+		b1.22;
+		b1.23;
+	}
+}
