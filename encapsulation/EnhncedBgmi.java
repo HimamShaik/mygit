@@ -15,6 +15,10 @@ public class EnhncedBgmi {
 		this.weapon = weapon;
 	}
 
+	public String getWeapon() {
+		return weapon;
+	}
+
 	public void looseHealth(int damage) {
 		this.health -= damage;
 		if (this.health <= 0) {

@@ -1,4 +1,4 @@
-package collectioniterationuinglinkedlist;
+package com.technoelevate.collectioniterationuinglinkedlist;
 
 import java.util.Iterator;
 import java.util.LinkedList;

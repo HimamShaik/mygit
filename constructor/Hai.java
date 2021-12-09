@@ -4,7 +4,7 @@ public class Hai {
 	public int no;
 
 	Hai(int no) {
-		System.out.println("hai this is hoimam");
+		System.out.println("hai this is himam");
 	}
 
 }

@@ -6,6 +6,7 @@ public class PlayerY {
 		EnhncedBgmi player = new EnhncedBgmi("Himam", 85, "M416");
 		System.out.println("Initia health :" + player.getHealth());
 		System.out.println("playername :" + player.getname());
+		System.out.println("weapon : " + player.getWeapon());
 	}
 
 }

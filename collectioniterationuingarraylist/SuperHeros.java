@@ -1,4 +1,4 @@
-package collectioniterationuingarraylist;
+package com.technoelevate.collectioniterationuingarraylist;
 
 public class SuperHeros {
 

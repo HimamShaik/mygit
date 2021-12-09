@@ -1,4 +1,4 @@
-package collectioniterationuingarraylist;
+package com.technoelevate.collectioniterationuingarraylist;
 
 import java.util.ArrayList;
 import java.util.Iterator;

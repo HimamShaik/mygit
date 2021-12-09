@@ -1,4 +1,4 @@
-package collectioniterationuinglinkedlist;
+package com.technoelevate.collectioniterationuinglinkedlist;
 
 public class Hero {
 	private String name;
