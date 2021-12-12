@@ -1,4 +1,0 @@
-interface sample
-{
-	void test();
-}
